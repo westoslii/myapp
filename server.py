@@ -1,13 +1,10 @@
 # -*- coding: utf-8 -*-
 
-<<<<<<< HEAD
-=======
 '''
 Created on 2017��1��17��
 
 @author: li.yongtao
 '''
->>>>>>> cd7a926a0570b22c5f8c17d25a5dee53f5de3f11
 import tornado.ioloop
 import tornado.options
 import tornado.httpserver
