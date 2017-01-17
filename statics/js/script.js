@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 /**
  * Created by westos on 17/1/16.
  */
 
+=======
+>>>>>>> cd7a926a0570b22c5f8c17d25a5dee53f5de3f11
 $(document).ready(function(){
     $("#login").click(function(){
         var user = $("#username").val();
@@ -20,4 +23,8 @@ $(document).ready(function(){
             },
         });
     });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> cd7a926a0570b22c5f8c17d25a5dee53f5de3f11
